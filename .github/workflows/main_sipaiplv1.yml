@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SIPAIPLV1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43A0F5233B2C447B803ADA6E1AE1BCD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C65464D97C8B435BB2F44023E9B64DB9 }}
